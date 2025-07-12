@@ -83,15 +83,15 @@ Enables selection by outlet location type, outlet size, and item type for detail
 
 •***Business Impact & Insights***
 
-Outlet Strategy: Tier 3 regions contribute the highest sales (~$472K), suggesting potential for expansion in semi-urban/rural areas.
+**Outlet Strategy:** Tier 3 regions contribute the highest sales (~$472K), suggesting potential for expansion in semi-urban/rural areas.
 
-Product Focus: Top-selling categories are Fruits, Snacks, and Household items, indicating where to concentrate inventory and promotions.
+**Product Focus:** Top-selling categories are Fruits, Snacks, and Household items, indicating where to concentrate inventory and promotions.
 
-Store Size Effectiveness: Medium-sized outlets yield the highest total sales, guiding future store development.
+**Store Size Effectiveness:** Medium-sized outlets yield the highest total sales, guiding future store development.
 
-Customer Ratings: Average rating of 3.9 maintained across outlet types, showing consistent service quality.
+**Customer Ratings:** Average rating of 3.9 maintained across outlet types, showing consistent service quality.
 
-Sales Trend Analysis: A visible dip in outlet expansion post-2019 suggests a strategic slowdown or external factors impacting growth.
+**Sales Trend Analysis:** A visible dip in outlet expansion post-2019 suggests a strategic slowdown or external factors impacting growth.
 
 
 
