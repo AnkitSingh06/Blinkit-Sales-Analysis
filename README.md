@@ -97,7 +97,7 @@ Enables selection by outlet location type, outlet size, and item type for detail
 
 
 
-https://github.com/AnkitSingh06/Blinkit-Sales-Analysis/blob/main/Blinkit%20Dashboard.png
+![Dashboard Preview].(https://github.com/AnkitSingh06/Blinkit-Sales-Analysis/blob/main/Blinkit%20Dashboard.png)
 
 
 
