@@ -27,28 +27,74 @@ Built an end-to-end sales analysis dashboard for Blinkit using Power BI, Postgre
 
 ## Features / Highlights :
 
-#### • **Business Problem:**
+• **Business Problem**
+Blinkit needed a consolidated system to track sales performance across diverse outlet types, sizes, and regions. The absence of a centralized view made it difficult to evaluate growth, identify top-performing outlets, and prioritize resource allocation.
 
-Blinkit, an online grocery delivery service, needed a clear, centralized view of its sales performance across product types, outlet sizes, and regions to identify trends, optimize operations, and improve decision-making.
+• **Goal of the Dashboard**
+To develop an interactive sales analysis dashboard that:
 
-#### • **Goal of the Dashboard:**
+Enables regional and outlet-wise performance tracking
 
-To design an interactive Power BI dashboard that enables stakeholders to monitor key sales metrics, evaluate outlet and product performance, and extract actionable insights from large volumes of sales data stored in PostgreSQL.
+Highlights high- and low-performing product categories
 
-#### • **Walkthrough of Key Visuals:**
+Offers dynamic filtering for focused analysis
 
-* **KPI Cards:** Showcased total sales, average rating, average sales and item counts at a glance.
-* **Bar Charts:** Compared sales by outlet size, item fat content, and item type.
-* **Donut/Column Charts:** Visualized sales distribution across outlet types and item categories.
-* **Map Visual:** Displayed city-wise or region-wise sales distribution.
-* **Slicers & Filters:** Enabled dynamic filtering by outlet size, item type, fat content, and city for custom analysis.
+Supports strategic decision-making by leadership and ops teams
 
-#### • **Business Impact & Insights:**
+•***Walkthrough of Key Visuals***
 
-* Enabled real-time visibility into top-selling product categories and underperforming outlets.
-* Helped identify high-performing outlet sizes and optimal product mix for targeted marketing.
-* Improved cross-functional reporting by consolidating sales KPIs into a single interactive dashboard.
-* Supported data-driven decision-making by making sales trends, customer preferences, and regional performance easily accessible to business teams.
+**KPI Cards (Top Center):**
+
+Total Sales: $1.20M
+
+Number of Items: 8,523
+
+Average Sales: $141
+
+Average Rating: 3.9
+
+**Donut & Bar Charts (Middle Left):** 
+
+Sales distribution by fat content (Low Fat vs. Regular)
+
+Sales performance by item types (Fruits, Snacks, Household, Dairy, etc.)
+
+Outlet performance by tier and fat content
+
+**Line Chart (Top Right):**
+
+Outlet establishment trend over years, showing expansion and peak phases
+
+**Donut Chart (Bottom Right):**
+
+Outlet sales split by size: Small, Medium, High
+
+**Funnel (Outlet Location):**
+
+Tier-wise sales comparison (Tier 1, 2, 3)
+
+**Matrix (Bottom Right):**
+
+Outlet Type-wise breakdown with total sales, average sales, item count, average rating, and visibility score
+
+**Filter Panel (Left):**
+
+Enables selection by outlet location type, outlet size, and item type for detailed segmentation
+
+•***Business Impact & Insights***
+
+Outlet Strategy: Tier 3 regions contribute the highest sales (~$472K), suggesting potential for expansion in semi-urban/rural areas.
+
+Product Focus: Top-selling categories are Fruits, Snacks, and Household items, indicating where to concentrate inventory and promotions.
+
+Store Size Effectiveness: Medium-sized outlets yield the highest total sales, guiding future store development.
+
+Customer Ratings: Average rating of 3.9 maintained across outlet types, showing consistent service quality.
+
+Sales Trend Analysis: A visible dip in outlet expansion post-2019 suggests a strategic slowdown or external factors impacting growth.
+
+
+
 
 
 https://github.com/AnkitSingh06/Blinkit-Sales-Analysis/blob/main/Blinkit%20Dashboard.png
