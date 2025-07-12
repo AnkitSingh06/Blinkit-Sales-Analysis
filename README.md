@@ -51,7 +51,7 @@ To design an interactive Power BI dashboard that enables stakeholders to monitor
 * Supported data-driven decision-making by making sales trends, customer preferences, and regional performance easily accessible to business teams.
 
 
-
+https://github.com/AnkitSingh06/Blinkit-Sales-Analysis/blob/main/Blinkit%20Dashboard.png
 
 
 
